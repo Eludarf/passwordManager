@@ -5,6 +5,7 @@ A Python app that generates and saves passwords for different websites/emails.
 **Clone the repository:**
 
 git clone https://github.com/Eludarf/passwordManager.git
+
 cd passwordManager
 
 **Install dependencies:**
